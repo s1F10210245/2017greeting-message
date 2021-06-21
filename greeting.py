@@ -1,6 +1,6 @@
 def greet(name):
     message = 'Hello, ' + name + '-san!'
-    print(message)
+    print(timely-message)
 
 
 greet('Inoue')
